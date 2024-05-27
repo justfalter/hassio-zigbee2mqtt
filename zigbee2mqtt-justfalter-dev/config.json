@@ -66,5 +66,5 @@
       "rtscts": "bool?"
     }
   },
-  "image": "ghcr.io/justfalter/zigbee2mqtt-justfalter-dev-{arch}"
+  "image": "justfalter/zigbee2mqtt-justfalter-dev-{arch}"
 }
